@@ -16,11 +16,11 @@ npm install -g expo-cli
 expo init {project name}
 ```
 - Go the project folder
-``sh
+```sh
 cd {project name}
 ```
 -Enter the following command in the terminal
-``sh
+```sh
 npm start
 ```
 

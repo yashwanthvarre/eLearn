@@ -17,7 +17,7 @@ expo init {project name}
 ```
 - Go the project folder
 ``sh
-cd AwesomeProject
+cd {project name}
 ```
 -Enter the following command in the terminal
 ``sh
